@@ -18,7 +18,7 @@
       <file leaf-file-name="predict.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/predict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state relative-caret-position="1254">
               <caret line="73" column="39" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -30,8 +30,8 @@
       <file leaf-file-name="train.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="126" column="25" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
+            <state relative-caret-position="1429">
+              <caret line="119" column="39" lean-forward="true" selection-start-line="119" selection-start-column="39" selection-end-line="119" selection-end-column="39" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -190,10 +190,10 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32828283" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3278237" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.44979367" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.36363637" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18697956" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.36363637" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19000757" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -221,6 +221,26 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="73" column="39" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2223">
+          <caret line="126" column="25" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/predict.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -283,11 +303,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../大三上/数字图像_animal/efficientnet/train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1767">
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-1767" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
@@ -295,7 +311,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/predict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="1254">
           <caret line="73" column="39" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -303,10 +319,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="126" column="25" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
+        <state relative-caret-position="1429">
+          <caret line="119" column="39" lean-forward="true" selection-start-line="119" selection-start-column="39" selection-end-line="119" selection-end-column="39" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
